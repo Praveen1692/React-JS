@@ -1,0 +1,23 @@
+.timer{
+    margin-left: auto;
+    margin-right: auto;
+}
+.colorTheme{
+    width: 500px;
+    height: 400px;
+    color: white;
+    background-color: black;
+    padding: 20px;
+    margin: 16px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+input{
+    width: 700px;
+    padding: 16px;
+    margin: 20px;
+    
+    font-size: 30px;
+}
